@@ -15,9 +15,6 @@
 ## Installation
 1. Ouvrir Home Assistant → HACS → Integrations → Custom repositories
 2. Ajouter l’URL du dépôt dans HACS :
-
-[![Ajouter à HACS](https://my.home-assistant.io/badges/hacs_repository.svg)]([https://my.home-assistant.io/redirect/hacs_repository/?owner=hydroqc&repository=hydroqc-ha&category=integration](https://github.com/SoFarSoGood86/veichi_ac70))
-  
    ```
    https://github.com/SoFarSoGood86/veichi_ac70
    ```
@@ -70,6 +67,14 @@ cards:
         entity: switch.ac70_sens_rotation
         name: Sens
 ```
+
+### Ressources
+
+- **Documentation** : [VEICHI AC70]([https://hydroqc.ca](https://www.veichi.com/d/file/p/20180122/7824c2072d7575f857710d8a31bf2e25.pdf))
+- **Problèmes** : [GitHub Issues](https://github.com/hydroqc/hydroqc-ha/issues)
+- **Code source** : [Dépôt GitHub](https://github.com/hydroqc/hydroqc-ha)
+- **Changelog** : [CHANGELOG.md](CHANGELOG.md)
+-
 
 #### Matériel compatible
 - Waveshare Ethernet (poe) to RS232/485/422.
