@@ -35,7 +35,7 @@
 
 ## Lovelace - carte example :
 
-Configuration :
+#### Configuration HA :
 1. Aller dans "Modifier tableau de bord"
 2. Ajouter au tableau de bord et selectionner "Manuel"
 3. Copier un des codes ci-dessous 
