@@ -38,8 +38,8 @@
 #### Configuration HA :
 1. Sur votre tableau de bord, aller dans "Modifier tableau de bord" en haut à droite.
 2. "Ajouter au tableau de bord" puis selectionner "Manuel".
-3. Copier le code ci-dessous.
-4. Copier manuellement le code YAML.
+3. Copier les codes ci-dessous.
+4. Coller manuellement le code YAML.
 
 
 #### Carte simple ( Entities )
