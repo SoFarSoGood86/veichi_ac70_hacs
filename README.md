@@ -1,6 +1,9 @@
 # VEICHI AC70 – Home Assistant
+<img width="1197" height="417" alt="Capture d’écran 2025-12-30 à 20 18 12" src="https://github.com/user-attachments/assets/c023d2b3-7cab-45aa-b150-a99d5813501b" />
 
 Intégration HACS pour piloter un variateur VEICHI AC70 via RS485 Modbus RTU over TCP.
+
+VEICHI AC70 "Manual" : "https://www.veichi.com/d/file/p/20180122/7824c2072d7575f857710d8a31bf2e25.pdf"
 
 ## Fonctionnalités
 - Marche / Arrêt
