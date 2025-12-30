@@ -15,6 +15,9 @@
 ## Installation
 1. Ouvrir Home Assistant → HACS → Integrations → Custom repositories
 2. Ajouter l’URL du dépôt dans HACS :
+
+[![Ajouter à HACS](https://my.home-assistant.io/badges/hacs_repository.svg)]([https://my.home-assistant.io/redirect/hacs_repository/?owner=hydroqc&repository=hydroqc-ha&category=integration](https://github.com/SoFarSoGood86/veichi_ac70))
+  
    ```
    https://github.com/SoFarSoGood86/veichi_ac70
    ```
