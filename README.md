@@ -69,12 +69,15 @@ cards:
 ```
 
 ### Ressources
+https://www.veichi.com/d/file/download/low-voltage-drives/ac10-series-frequency-inverter-manual-v1.pdf
 
-- **Documentation** : [VEICHI AC10]([https://hydroqc.ca](https://www.veichi.com/d/file/p/20180122/7824c2072d7575f857710d8a31bf2e25.pdf))
-- **Documentation** : [VEICHI AC70](https://www.veichi.com/d/file/p/20180122/7824c2072d7575f857710d8a31bf2e25.pdf)
-- **Code source** : [Dépôt GitHub](https://github.com/hydroqc/hydroqc-ha)
-- **Changelog** : [CHANGELOG.md](CHANGELOG.md)
--
+- **Documentation** :
+[VEICHI AC70](https://www.veichi.com/d/file/download/low-voltage-drives/ac10-series-frequency-inverter-manual-v1.pdf)
+[VEICHI AC70](https://www.veichi.com/d/file/p/20180122/7824c2072d7575f857710d8a31bf2e25.pdf)
+[VEICHI AC300](https://www.veichi.com/d/file/download/low-voltage-drives/veichi-ac300-technical-manual-v1-0.pdf)
+- **Code source** :
+[Dépôt GitHub](https://github.com/SoFarSoGood86/veichi_ac70)
+
 
 #### Matériel compatible
 - Waveshare Ethernet (poe) to RS232/485/422.
