@@ -33,7 +33,7 @@
 
 - Valider et sauvegarder
 
-## Lovelace card example :
+## Lovelace - carte example :
 
 #### Carte simple ( Entities )
 ```yaml
