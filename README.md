@@ -92,7 +92,7 @@ modbus:
         slave: 1
         address: 0x2106
         input_type: holding
-        unit_of_measurement: "kW"
+        unit_of_measurement: "kw"
         scale: 0.1
         precision: 1
 
