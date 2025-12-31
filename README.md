@@ -33,6 +33,78 @@
 
 - Valider et sauvegarder
 
+## Configuration "Configuration.yaml" :
+
+```yaml
+modbus:
+  - name: veichi_ac70
+    type: tcp
+    host: 192.168.1.50
+    port: 502
+    delay: 1
+    timeout: 5
+
+    switches:
+      - name: "AC70 Marche"
+        slave: 1
+        address: 0x2000
+        write_type: holding
+        command_on: 1
+        command_off: 0
+
+      - name: "AC70 Sens rotation"
+        slave: 1
+        address: 0x2002     # Sens de rotation
+        write_type: holding
+        command_on: 1       # Avant
+        command_off: 0      # Arrière
+
+    numbers:
+      - name: "AC70 Fréquence consigne"
+        slave: 1
+        address: 0x2001
+        write_type: holding
+        unit_of_measurement: "Hz"
+        min: 0
+        max: 50
+        step: 0.1
+        scale: 0.01
+        precision: 2
+
+    sensors:
+      - name: "AC70 Fréquence actuelle"
+        slave: 1
+        address: 0x2103
+        input_type: holding
+        unit_of_measurement: "Hz"
+        scale: 0.01
+        precision: 2
+
+      - name: "AC70 Courant moteur"
+        slave: 1
+        address: 0x2104
+        input_type: holding
+        unit_of_measurement: "A"
+        scale: 0.1
+        precision: 1
+
+      - name: "AC70 Puissance moteur"
+        slave: 1
+        address: 0x2106
+        input_type: holding
+        unit_of_measurement: "kW"
+        scale: 0.1
+        precision: 1
+
+      - name: "AC70 Température variateur"
+        slave: 1
+        address: 0x2107
+        input_type: holding
+        unit_of_measurement: "°C"
+        scale: 1
+        precision: 0
+```
+
 ## Lovelace - carte example :
 
 #### Configuration HA :
