@@ -199,6 +199,3 @@ Cette intégration n'est **pas approuvée, associée ou supportée par VEICHI**.
 Le nom « VEICHI », les logos et toutes les marques de commerce et marques déposées présents dans ce dépôt sont la propriété de VEICHI.
 L'utilisation de ces noms, marques de commerce et logos dans ce projet est uniquement à des fins d'identification et n'implique aucune approbation ou affiliation avec VEICHI.
 
-<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
-
-<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
