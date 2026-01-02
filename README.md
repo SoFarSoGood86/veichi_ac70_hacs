@@ -12,7 +12,7 @@
 - Config UI
 - Diagnostics Home Assistant
 
-<img width="1197" height="73" alt="Baner" src="https://github.com/user-attachments/assets/0708d028-1b33-4c7b-8a33-3eec29e3a501" />
+<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
 
 ## Installation :
 1. Ouvrir Home Assistant → HACS → Integrations → Custom repositories.
@@ -35,7 +35,7 @@
 
 - Valider et sauvegarder
 
-<img width="1197" height="73" alt="Baner" src="https://github.com/user-attachments/assets/0708d028-1b33-4c7b-8a33-3eec29e3a501" />
+<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
 
 ## VEICHI AC10 yaml configuration :
 
@@ -123,7 +123,7 @@ modbus:
         precision: 0
 ```
 
-<img width="1197" height="73" alt="Baner" src="https://github.com/user-attachments/assets/0708d028-1b33-4c7b-8a33-3eec29e3a501" />
+<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
 
 ## Lovelace - carte example :
 
@@ -167,7 +167,7 @@ cards:
         name: Sens
 ```
 
-<img width="1197" height="73" alt="Baner" src="https://github.com/user-attachments/assets/0708d028-1b33-4c7b-8a33-3eec29e3a501" />
+<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
 
 ## Matériel compatible
 - Waveshare Ethernet (poe) to RS232/485/422. [pdf](https://www.waveshare.com/wiki/RS232/485/422_TO_POE_ETH_(B))
@@ -175,7 +175,7 @@ cards:
 - VEICHI AC70 [pdf](https://www.veichi.com/d/file/p/20180122/7824c2072d7575f857710d8a31bf2e25.pdf)
 - VEICHI AC300 [pdf](https://www.veichi.com/d/file/download/low-voltage-drives/veichi-ac300-technical-manual-v1-0.pdf)
 
-<img width="1197" height="73" alt="Baner" src="https://github.com/user-attachments/assets/0708d028-1b33-4c7b-8a33-3eec29e3a501" />
+<img width="1197" height="21" alt="Baner" src="https://github.com/user-attachments/assets/f3ae4b2b-d0ec-4efd-9821-147d31e2c54b" />
 
 ## Avertissement
 
