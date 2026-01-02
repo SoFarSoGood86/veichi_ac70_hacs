@@ -21,10 +21,10 @@
    https://github.com/SoFarSoGood86/veichi_ac10_70_300.git
    ```
 3. Installer l'intégration, choisir **Category: Integration**.
-4. Configurer l'adresse IP (192.168.1.254).
-5. Installer l’intégration et redémarrer HA.
+4. Configurer l'adresse IP `192.168.1.70`.
+5. Installer l’intégration et redémarrer Home Assistant.
 
-## Configuration node Waveshare ETH -> Serial RS232 / RS485-422 :
+## Configuration du node Waveshare ETH to Serial RS232 / RS485-422 :
 
 - Renseigner les champs :
 
