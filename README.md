@@ -21,14 +21,14 @@
    https://github.com/SoFarSoGood86/veichi_ac10_70_300.git
    ```
 3. Installer l'intégration, choisir **Category: Integration**.
-4. Configurer l'adresse IP `192.168.1.70`.
+4. Configurer l'adresse IP `192.168.1.100`.
 5. Installer l’intégration et redémarrer Home Assistant.
 
 ## Configuration du node Waveshare ETH to Serial RS232 / RS485-422 :
 
 - Renseigner les champs :
 
-   * **IP du boîtier Waveshare** : ex. `192.168.1.70` (ou autre selon configuration)
+   * **IP du boîtier Waveshare** : ex. `192.168.1.100` (ou autre selon configuration)
    * **Port TCP** : ex. `502` (ou autre selon configuration)
    * **Mode physique** : RS485
    * **Slave Modbus** : ex. `1`(ou autre selon configuration)
@@ -45,7 +45,7 @@
 modbus:
   - name: veichi_ac10
     type: tcp
-    host: 192.168.1.70    # Ou autre IP selon configuration
+    host: 192.168.1.100    # Ou autre IP selon configuration
     port: 502             # Ou autre Port selon configuration 
     delay: 1
     timeout: 5
@@ -59,7 +59,7 @@ modbus:
 modbus:
   - name: veichi_ac70
     type: tcp
-    host: 192.168.1.70    # Ou autre IP selon configuration
+    host: 192.168.1.100    # Ou autre IP selon configuration
     port: 502             # Ou autre Port selon configuration
     delay: 1
     timeout: 5
@@ -131,7 +131,7 @@ modbus:
 modbus:
   - name: veichi_ac300
     type: tcp
-    host: 192.168.1.70    # Ou autre IP selon configuration
+    host: 192.168.1.100    # Ou autre IP selon configuration
     port: 502             # Ou autre Port selon configuration 
     delay: 1
     timeout: 5
